@@ -77,7 +77,7 @@ It enables users to:
 - Data Visualization
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
