@@ -75,6 +75,9 @@ It enables users to:
 - KPI Development
 - Business Intelligence
 - Data Visualization
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ---
 
